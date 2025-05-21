@@ -10,7 +10,7 @@ import {
   isInCooldown,
   COLLISION_CONSTANTS,
   COLLISION_STYLES 
-} from './utils/collisionUtils';
+} from '../core/utils/collisionUtils';
 
 // Create collision sound
 const createCollisionSound = () => {
